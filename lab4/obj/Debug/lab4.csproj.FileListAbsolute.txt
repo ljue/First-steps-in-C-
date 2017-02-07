@@ -1,0 +1,11 @@
+D:\C#\ConsoleApplication2\lab4\bin\Debug\lab4.exe.config
+D:\C#\ConsoleApplication2\lab4\bin\Debug\lab4.exe
+D:\C#\ConsoleApplication2\lab4\bin\Debug\lab4.pdb
+D:\C#\ConsoleApplication2\lab4\obj\Debug\lab4.Properties.Resources.resources
+D:\C#\ConsoleApplication2\lab4\obj\Debug\lab4.csproj.GenerateResource.Cache
+D:\C#\ConsoleApplication2\lab4\obj\Debug\lab4.exe
+D:\C#\ConsoleApplication2\lab4\obj\Debug\lab4.pdb
+D:\C#\ConsoleApplication2\lab4\obj\Debug\lab4.Form1.resources
+D:\C#\ConsoleApplication2\lab4\obj\Debug\lab4.csprojResolveAssemblyReference.cache
+D:\C#\ConsoleApplication2\lab4\obj\Debug\lab4.FormCard.resources
+D:\C#\ConsoleApplication2\lab4\obj\Debug\lab4.TestForm.resources

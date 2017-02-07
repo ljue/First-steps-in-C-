@@ -1,0 +1,33 @@
+<?xml version="1.0"?>
+<ArrayOfBook xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Book>
+    <Name>Война и мир</Name>
+    <Autor>Л.Н.Толстой</Autor>
+    <Genre>роман</Genre>
+    <Year>1865</Year>
+    <Company>Русский вестник</Company>
+    <Pages>1300</Pages>
+    <Annotation>Роман "Война и мир" классика мировой литературы Л. Н. Толстого, посвященный Отечественной войне 1812 года, является эпопеей славы русского народа, величественной летописью его подвигов, вместивший в себя огромное разнообразие человеческих жизней и человеческих чувств.</Annotation>
+    <PicFullName>D:\C#\ConsoleApplication2\lab5\bin\Debug\Images\Voyna_i_Mir.jpg</PicFullName>
+  </Book>
+  <Book>
+    <Name>Преступление и наказание</Name>
+    <Autor>Ф.М.Достоевский</Autor>
+    <Genre>роман</Genre>
+    <Year>1866</Year>
+    <Company>Русский вестник</Company>
+    <Pages>336</Pages>
+    <Annotation>Родион Раскольников — стеснённый в средствах студент. Он ютится в крохотной комнате и размышляет о справедливости. Ради неё он осмысленно совершает преступление и получает наказание: страшась расплаты, испытывая муки совести, невольно стремясь к раскаянию. Главный герой окружён людьми: хорошими и плохими, великодушными и подлыми, несчастными в жизни и светлыми в душе. И лишь один из них — Порфирий Петрович — способен Раскольникова раскрыть. И лишь одна из них — Соня Мармеладова — призвать раскаяться.</Annotation>
+    <PicFullName>D:\C#\ConsoleApplication2\lab5\bin\Debug\Images\Prestupleniye_i_nakazaniye.jpg</PicFullName>
+  </Book>
+  <Book>
+    <Name>Горе от ума</Name>
+    <Autor>А.С.Грибоедов</Autor>
+    <Genre>комедия</Genre>
+    <Year>1825</Year>
+    <Company />
+    <Pages>0</Pages>
+    <Annotation />
+    <PicFullName>D:\C#\ConsoleApplication2\lab5\bin\Debug\Images\Gore_ot_uma.jpg</PicFullName>
+  </Book>
+</ArrayOfBook>
