@@ -1,0 +1,12 @@
+D:\C#\ConsoleApplication2\ConsoleApplication2\bin\Debug\ConsoleApplication2.exe.config
+D:\C#\ConsoleApplication2\ConsoleApplication2\bin\Debug\ConsoleApplication2.exe
+D:\C#\ConsoleApplication2\ConsoleApplication2\bin\Debug\ConsoleApplication2.pdb
+D:\C#\ConsoleApplication2\ConsoleApplication2\obj\Debug\ConsoleApplication2.csprojResolveAssemblyReference.cache
+D:\C#\ConsoleApplication2\ConsoleApplication2\obj\Debug\ConsoleApplication2.exe
+D:\C#\ConsoleApplication2\ConsoleApplication2\obj\Debug\ConsoleApplication2.pdb
+F:\C#\ConsoleApplication2\ConsoleApplication2\bin\Debug\ConsoleApplication2.exe.config
+F:\C#\ConsoleApplication2\ConsoleApplication2\obj\Debug\ConsoleApplication2.exe
+F:\C#\ConsoleApplication2\ConsoleApplication2\obj\Debug\ConsoleApplication2.pdb
+F:\C#\ConsoleApplication2\ConsoleApplication2\bin\Debug\ConsoleApplication2.exe
+F:\C#\ConsoleApplication2\ConsoleApplication2\bin\Debug\ConsoleApplication2.pdb
+F:\C#\ConsoleApplication2\ConsoleApplication2\obj\Debug\ConsoleApplication2.csprojResolveAssemblyReference.cache
