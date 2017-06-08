@@ -1,0 +1,19 @@
+C:\Users\Людмила\Desktop\Современные технологии разработки программного обеспечения (MS Visual С#)\Документы\StudExamTask\StudExam\bin\Debug\StudExam.exe
+C:\Users\Людмила\Desktop\Современные технологии разработки программного обеспечения (MS Visual С#)\Документы\StudExamTask\StudExam\bin\Debug\StudExam.pdb
+C:\Users\Людмила\Desktop\Современные технологии разработки программного обеспечения (MS Visual С#)\Документы\StudExamTask\StudExam\obj\x86\Debug\StudExam.csprojResolveAssemblyReference.cache
+C:\Users\Людмила\Desktop\Современные технологии разработки программного обеспечения (MS Visual С#)\Документы\StudExamTask\StudExam\obj\x86\Debug\StudExam.FormMain.resources
+C:\Users\Людмила\Desktop\Современные технологии разработки программного обеспечения (MS Visual С#)\Документы\StudExamTask\StudExam\obj\x86\Debug\StudExam.Properties.Resources.resources
+C:\Users\Людмила\Desktop\Современные технологии разработки программного обеспечения (MS Visual С#)\Документы\StudExamTask\StudExam\obj\x86\Debug\StudExam.csproj.GenerateResource.Cache
+C:\Users\Людмила\Desktop\Современные технологии разработки программного обеспечения (MS Visual С#)\Документы\StudExamTask\StudExam\obj\x86\Debug\StudExam.exe
+C:\Users\Людмила\Desktop\Современные технологии разработки программного обеспечения (MS Visual С#)\Документы\StudExamTask\StudExam\obj\x86\Debug\StudExam.pdb
+D:\ASP.NET\3\StudExamTask\StudExam\obj\x86\Debug\StudExam.exe
+D:\ASP.NET\3\StudExamTask\StudExam\obj\x86\Debug\StudExam.pdb
+D:\ASP.NET\3\StudExamTask\StudExam\obj\x86\Debug\StudExam.csprojResolveAssemblyReference.cache
+D:\ASP.NET\3\StudExamTask\StudExam\obj\x86\Debug\StudExam.FormMain.resources
+D:\ASP.NET\3\StudExamTask\StudExam\obj\x86\Debug\StudExam.Properties.Resources.resources
+D:\ASP.NET\3\StudExamTask\StudExam\obj\x86\Debug\StudExam.csproj.GenerateResource.Cache
+D:\ASP.NET\3\StudExamTask\StudExam\bin\Debug\StudExam.exe
+D:\ASP.NET\3\StudExamTask\StudExam\bin\Debug\StudExam.pdb
+D:\ASP.NET\3\StudExamTask\StudExam\bin\Debug\StudExam.exe.config
+D:\ASP.NET\3\StudExamTask\StudExam\bin\Debug\Kit.dll
+D:\ASP.NET\3\StudExamTask\StudExam\bin\Debug\Kit.pdb

@@ -1,0 +1,10 @@
+C:\Users\Людмила\Desktop\Современные технологии разработки программного обеспечения (MS Visual С#)\Документы\StudExamTask\Kit\bin\Debug\Kit.dll
+C:\Users\Людмила\Desktop\Современные технологии разработки программного обеспечения (MS Visual С#)\Документы\StudExamTask\Kit\bin\Debug\Kit.pdb
+C:\Users\Людмила\Desktop\Современные технологии разработки программного обеспечения (MS Visual С#)\Документы\StudExamTask\Kit\obj\Debug\Kit.csprojResolveAssemblyReference.cache
+C:\Users\Людмила\Desktop\Современные технологии разработки программного обеспечения (MS Visual С#)\Документы\StudExamTask\Kit\obj\Debug\Kit.dll
+C:\Users\Людмила\Desktop\Современные технологии разработки программного обеспечения (MS Visual С#)\Документы\StudExamTask\Kit\obj\Debug\Kit.pdb
+D:\ASP.NET\3\StudExamTask\Kit\bin\Debug\Kit.dll
+D:\ASP.NET\3\StudExamTask\Kit\bin\Debug\Kit.pdb
+D:\ASP.NET\3\StudExamTask\Kit\obj\Debug\Kit.csprojResolveAssemblyReference.cache
+D:\ASP.NET\3\StudExamTask\Kit\obj\Debug\Kit.dll
+D:\ASP.NET\3\StudExamTask\Kit\obj\Debug\Kit.pdb
