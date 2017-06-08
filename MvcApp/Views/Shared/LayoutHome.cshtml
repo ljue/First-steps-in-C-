@@ -1,0 +1,20 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+	<meta name="viewport" content="width=device-width" />
+	<title>@ViewBag.Title</title>
+	<link href="@Url.Content("~/Content/Site.css")" rel="stylesheet" type="text/css" />
+</head>
+<body>
+	@Html.ActionLink("Home", "Index", "Home", new { area = "" }, new { @class = "hd" })
+	@Html.ActionLink("Welcome", "Welcome", "Home", new { name = "Alex Black", id = 68 }, new { @class = "hd" })
+	@Html.ActionLink("Create Database", "CreateDb", "Home", new { area = "" }, new { @class = "hd" })
+	@Html.ActionLink("Drop Database", "DropDb", "Home", new { area = "" }, new { @class = "hd" })<br /><br />
+	<section id="main">
+		@RenderBody()
+	</section><br /><br /><hr />
+	<footer>
+		&copy; MySoft, 2015<br /><a href="@ViewBag.VisitThis">Visit this</a>
+	</footer>
+</body>
+</html>

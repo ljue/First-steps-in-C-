@@ -1,0 +1,30 @@
+﻿@model MvcApp.Models.Book
+
+	@{
+		ViewBag.Title = "Delete Book";
+		ViewBag.VisitThis = "https://msdn.microsoft.com/ru-ru/data/ef.aspx";
+	}
+
+		<h3>You want to delete book:</h3>
+	@{<table id="tbl">
+			<tr>
+				<th> Author </th>
+				<th> Title </th>
+				<th> Email</th>
+				<th> Date </th>
+			</tr>
+			<tr>
+				<td>@Html.DisplayFor(c => Model.Author)</td>
+				<td>@Html.DisplayFor(c => Model.Title)</td>
+				<td>@Html.DisplayFor(c => Model.Email)</td>
+				<td>@Html.DisplayFor(c => Model.Date)</td>				
+			</tr>		
+		</table>
+		
+		<br />
+		<input type="submit" value="Delete" />
+	}
+
+
+<script src="~/Scripts/Kit.js"></script>
+<script>window.onload = AliveTable("tbl");</script>

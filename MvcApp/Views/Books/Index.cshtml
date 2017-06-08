@@ -1,0 +1,50 @@
+﻿
+@model  IEnumerable<MvcApp.Models.Book> 
+
+@{
+	ViewBag.Title = "Books";
+	ViewBag.VisitThis = "https://msdn.microsoft.com/ru-ru/data/ef.aspx";
+}
+<h2>Books</h2>
+<p>@Html.ActionLink("Add New Book", "AddBook")</p>
+<table id="tbl">
+	<tr>
+		<th> Author </th>
+		<th> Title </th>
+		<th> Email</th>
+		<th> Date </th>
+		<th>Select action</th>
+	</tr>
+
+
+	@{
+		if (ViewBag.errorMsg == "")
+		{
+			try
+			{
+				foreach (var item in Model)
+				{
+					var dt = item.Date != null ? ((DateTime)item.Date).ToShortDateString() : "";
+					<tr>
+						<td>@Html.DisplayFor(c => item.Author)</td>
+						<td>@Html.DisplayFor(c => item.Title)</td>
+						<td>@Html.DisplayFor(c => item.Email)</td>
+						<td>@dt</td>
+						<td>
+							@Html.ActionLink("Edit", "EditBook", new { id = item.Id }) |
+							@Html.ActionLink("Delete", "DeleteBook", new { id = item.Id } ) |
+							@Html.ActionLink("Review", "ShowReview", new { id = item.Id })
+						</td>
+					</tr>
+				}
+			}
+			catch (Exception ex) { ViewBag.errorMsg = MvcApp.Models.Kit.SetErrorMsg(ex); }
+		}
+	}
+
+</table>
+@ViewBag.errorMsg
+
+<script src="~/Scripts/Kit.js"></script>
+<script>window.onload = AliveTable("tbl");</script>
+

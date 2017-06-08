@@ -1,0 +1,25 @@
+﻿@model MvcApp.Models.Book
+
+@{
+	ViewBag.Title = "Add Book";
+	ViewBag.VisitThis = "https://msdn.microsoft.com/ru-ru/data/ef.aspx";
+}
+
+<h3>New Book</h3>
+@using (Html.BeginForm())
+{
+	<span>Author: </span>
+	@Html.EditorFor(m => m.Author)
+	@Html.ValidationMessageFor(m => m.Author, "", new { @class = "red" })
+	<br /><span>Title: </span>
+	@Html.EditorFor(model => model.Title)
+	@Html.ValidationMessageFor(m => m.Title, "", new { @class = "red" })
+	<br /><span>Email: </span>
+	@Html.EditorFor(m => m.Email)
+	@Html.ValidationMessageFor(m => m.Email, "", new { @class = "red" })
+	<br /><span>Date: </span>
+	@Html.EditorFor(m => m.Date)
+	@Html.ValidationMessageFor(m => m.Date, "", new { @class = "red" })
+	<br />
+	<input type="submit" value="Create" />
+}

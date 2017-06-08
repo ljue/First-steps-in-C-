@@ -1,0 +1,9 @@
+﻿@model string
+
+@{
+	ViewBag.Title = "Error";
+	ViewBag.VisitThis = "https://msdn.microsoft.com/ru-ru/data/ef.aspx";
+}
+<h2>Error</h2>
+<textarea class="error">@Model</textarea><br /><br />
+@Html.ActionLink("Create Database", "CreateDb", "Home")

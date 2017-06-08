@@ -1,0 +1,16 @@
+﻿@model MvcApp.Models.ReviewVM
+
+@{
+	ViewBag.Title = "Show Review";
+	ViewBag.VisitThis = "https://msdn.microsoft.com/ru-ru/data/ef.aspx";
+}
+
+<h3>@Model.Title</h3>
+@Ajax.ActionLink( "Next Review", "ShowReview", new AjaxOptions
+{
+	UpdateTargetId="sp",
+	InsertionMode=InsertionMode.Replace,
+	HttpMethod="POST"
+})
+<br /><br />
+<div id="sp" class="ajax">@Html.Partial("OneReview", Model)</div>

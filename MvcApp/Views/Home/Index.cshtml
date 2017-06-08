@@ -1,0 +1,26 @@
+﻿@{
+	ViewBag.Title = "Home Page";
+	ViewBag.VisitThis = "http://www.codeproject.com";
+	var msg = "Welcome to our site! Today is - " + DateTime.Now.DayOfWeek;
+	var firstTime = IsPost ? "Page was submitted" : "This is your first request";
+}
+
+@using (Html.BeginForm())
+{
+	@msg<br />
+	@firstTime<br />
+	<span>Request Type: @Request.RequestType</span><br />
+	<span>URL: @Request.Url</span><br /><br />
+	<input type="submit" value="OK" />
+}
+
+@if (ViewData["DB"] != null && (bool)ViewData["DB"])
+{
+	@Html.ActionLink("View Books", "Index", "Books")
+}
+
+
+
+
+
+

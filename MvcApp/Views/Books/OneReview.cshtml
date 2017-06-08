@@ -1,0 +1,6 @@
+﻿@model MvcApp.Models.ReviewVM
+
+<span class="red big">@Model.Reviewer</span>
+<text>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; @(Model.Id + 1)(out of @Model.Count)</text>
+<br /><br />
+@Html.DisplayFor(m => m.Text)
